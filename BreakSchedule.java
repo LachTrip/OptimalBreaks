@@ -5,13 +5,6 @@ import java.util.*;
 
 public class BreakSchedule {
 	
-	
-	// Use this class to implement programs for Tasks 2 & 3. Your file must not change the package name,
-	// nor the class name. You must not change the names nor the signatures of the two program stubs
-	// in this file. You may augment this file with any other method or variable/data declarations that you
-	// might need to implement the dynamic programming strategy requested for Tasks 2&3.
-	// Make sure however that all your declarations are public.
-	
 	public Integer[][][][] table;
 	public ArrayList<Integer> ans;
 	
